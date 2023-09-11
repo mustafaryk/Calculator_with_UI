@@ -7,3 +7,5 @@ Seperated brackets are supported eg (4+3)(4+6)^2
 The buttons provided are used to enter an equation, inlcluding all numbers, (decimals, negative), every arithhnetic operator.
 The equals button will then process the equation and display the answer. It will give error for invalid equations.eg square root of negative numbers, division by zero, incoherent bracket placement.
 Tkinter library is used for UI
+
+An exe is provided which has some minor adjustments to the source code namely the addition of icons and resizing of buttons in the UI. Otherwise the code for processing the equations is identical
