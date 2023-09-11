@@ -15,4 +15,4 @@ The equals button will then process the equation and display the answer. It will
 
 Tkinter library is used for UI
 
-An exe is provided which has some minor adjustments to the source code namely the addition of icons and resizing of buttons in the UI. Otherwise the code for processing the equations is identical
+An executable is provided which has some minor adjustments to the source code namely the addition of icons and resizing of buttons in the UI. Otherwise the code for processing the equations is identical. The exe is the calculator in all its glory. The final product of months of work.
