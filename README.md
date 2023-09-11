@@ -1,5 +1,5 @@
 # Calculator_with_UI
-A combination of my calculator with parantheses and a user interface.
+A combination of my calculator with parantheses and a user interface. Functions exactly like a real handheld (non-scientific) calculator.
 
 A functioning calculator with functionality for parantheses. Input is entered exactly as it would be on a real calculator. Decimal numbers can also be inputted.
 
